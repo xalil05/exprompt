@@ -1,0 +1,7 @@
+BugCrush — scan gratuit, sans login, pour les devs qui veulent coder tranquille.
+7 étapes (clone → bandit → semgrep → flake8 → trufflehog → triage → scoring),
+4 catégories notées. Je veux une vidéo TikTok verticale (9:16, 15s) en mode
+"avant-après" : le dev qui merge dans le doute → le dev qui sait que son code
+est safe. Ton sobre tech (bleu #3b82f6, fond sombre). Pas de bullshit. Texte
+percutant, style war story. Pas de voix off, text overlay uniquement.
+CTA : "Scan gratuit sur bugcrush.io" à la fin. Français.
