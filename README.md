@@ -113,5 +113,4 @@ Variables d'environnement (`.env`) :
 ## Crédits
 
 - **Ibrahima Xaliloulah Ndiaye** (xalil05) — Conception, briefs, direction et validation du projet
-- [Hermes Agent](https://hermes-agent.nousresearch.com) — Assistant IA d'exécution
 - Prompt Engineering Guide, PROMPT_ENGENERING, system-prompts-and-models — Sources d'inspiration
